@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 one
 two
 three
+=======
+alpha
+beta
+gamma
+>>>>>>> a935b2e1e4977c1db91eaf406269590a1a855f73
