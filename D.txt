@@ -3,3 +3,7 @@
   396  ssh-add ~/.ssh/id_rsa
   397  ssh -T git@github.com
   404  git remote set-url origin git@github.com:vasanth29797/gitTest.git
+  
+  git stash save
+  git stash pop
+  history -cw
