@@ -1,0 +1,385 @@
+    1  git --version
+    2  # Please enter the commit message for your changes. Lines starting
+    3  # with '#' will be ignored, and an empty message aborts the commit.
+    4  #
+    5  # On branch master
+    6  #
+    7  # Initial commit
+    8  #
+    9  # Changes to be committed:
+   10  #	new file:   index.htm
+   11  #	new file:   sample.js
+   12  #
+   13  # Please enter the commit message for your changes. Lines starting
+   14  # with '#' will be ignored, and an empty message aborts the commit.
+   15  #
+   16  # On branch master
+   17  #
+   18  # Initial commit
+   19  #
+   20  # Changes to be committed:
+   21  #	new file:   index.htm
+   22  #	new file:   sample.js
+   23  #
+   24  git clone https://github.com/vasanth29797/Git-testing.git
+   25  touch index.htm
+   26  touch sample.js
+   27  git init
+   28  git config --global user.name 'Vasanth Kumar E'
+   29  git config --global user.email 'evk29797@gmail.com'
+   30  git add index.htm
+   31  git status
+   32  git rm --cached index.htm
+   33  git status
+   34  git add .
+   35  git status
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit
+   40  git commit
+   41  i
+   42  git status
+   43  git status
+   44  git add .
+   45  git status
+   46  git commit -m 'Modified sample.js'
+   47  touch .gitignore
+   48  git add .
+   49  git status
+   50  git add .
+   51  git status
+   52  git commit -m 'another change'
+   53  git branch login
+   54  git checkout login
+   55  touch login.htm
+   56  git add .
+   57  git commit -m 'login form'
+   58  git checkout master
+   59  git merge login
+   60  git remote
+   61  git remote add origin https://github.com/vasanth29797/Git-testing.git
+   62  git remote
+   63  git push -u origin master
+   64  git push -u origin master
+   65  git push -f origin master
+   66  git push -f origin master
+   67  touch README.md
+   68  git add .
+   69  git commit -m 'added README.md'
+   70  git push
+   71  git push origin
+   72  git remote
+   73  git push --set-upstream origin master
+   74  git pull
+   75  cd Desktop
+   76  git clone https://github.com/varunotelli/Gujarat.git
+   77  touch a.html
+   78  touch a.html
+   79  cd DialogFlow
+   80  touch index.js
+   81  git clone https://github.com/Amejia481/Associate-Android-Developer-Certification.git
+   82  git clone https://github.com/varunotelli/Gujarat.git
+   83  cd Gujaratr
+   84  cd Gujarat
+   85  git status
+   86  git add .
+   87  git status
+   88  git commit -m 'Added mobile app'
+   89  git push -u origin master
+   90  cd ..
+   91  git clone https://github.com/varunotelli/Gujarat.git
+   92  git clone https://github.com/varunotelli/Gujarat.git
+   93  cd gujarat
+   94  git status
+   95  git add .
+   96  git status
+   97  git commit -m 'Added mobile app'
+   98  git push -u origin master
+   99  git clone https://github.com/varunotelli/Gujarat.git
+  100  cd Gujarat
+  101  python server.py
+  102  pip install mysqlclient
+  103  python server.py
+  104  git clone https://github.com/varunotelli/Gujarat.git
+  105  git pull
+  106  git pull
+  107  git status
+  108  git add
+  109  git add .
+  110  git status
+  111  git commit -m 'added admin_pages'
+  112  git status
+  113  git push
+  114  git fetch
+  115  git merge
+  116  git status
+  117  git add .
+  118  git status
+  119  git commit -m 'UI fixed'
+  120  git push
+  121  git push
+  122  git status
+  123  git fetch
+  124  git merge
+  125  git add .
+  126  git status
+  127  git commit -m 'UI fixed'
+  128  git push
+  129  git pull
+  130  git status
+  131  git add .
+  132  git status
+  133  git commit -m 'UI styled'
+  134  git status
+  135  git push
+  136  git push
+  137  git status
+  138  git fetch
+  139  git merge
+  140  git status
+  141  git add .
+  142  git status
+  143  git commit -m 'Modified adminHome'
+  144  git push
+  145  git pull
+  146  git fetch
+  147  git merge
+  148  git add .
+  149  git fetch
+  150  git merge
+  151  git status
+  152  git pull
+  153  git add .
+  154  git pull
+  155  cd ..
+  156  cd ..
+  157  git clone https://github.com/varunotelli/Gujarat.git
+  158  git clone https://github.com/varunotelli/Gujarat.git
+  159  git pull
+  160  cd gujarat
+  161  git pull
+  162  git pull
+  163  git pull
+  164  git clone https://github.com/varunotelli/Gujarat.git
+  165  git add .
+  166  cd gujarat
+  167  git add .
+  168  git status
+  169  git commit -m 'Added constraint for phone number'
+  170  git status
+  171  git push
+  172  git pull
+  173  git pull
+  174  git fetch
+  175  git merge
+  176  git add .
+  177  git fetch
+  178  git merge
+  179  git clone https://github.com/varunotelli/Gujarat.git
+  180  cd gujarat
+  181  git pull
+  182  git pull
+  183  git pull
+  184  git fetch
+  185  git merge
+  186  cd ..
+  187  git clone https://github.com/varunotelli/Gujarat.git
+  188  git clone https://github.com/varunotelli/Gujarat.git
+  189  cd gujarat
+  190  git add .
+  191  git status
+  192  git commit -m 'added view schemes tab n some modals'
+  193  git push
+  194  git add .
+  195  git status
+  196  git commit -m 'implemented view schemes without id'
+  197  git push
+  198  git add .
+  199  git status
+  200  git commit -m 'added id field in view schemes'
+  201  git push
+  202  git status
+  203  git status
+  204  git add .
+  205  git status
+  206  git commit -m 'added extra column in table of adminApproval'
+  207  git push
+  208  git clone https://github.com/varunotelli/Gujarat.git
+  209  cd gujarat
+  210  git add .
+  211  git status
+  212  git fetch
+  213  git merge
+  214  git pull
+  215  cd ..
+  216  git clone https://github.com/varunotelli/Gujarat.git
+  217  git add .
+  218  cd gujarat
+  219  git add .
+  220  git status
+  221  git commit -m 'added constraints to the forms'
+  222  git push
+  223  git add .
+  224  git status
+  225  git commit -m 'dropdown box fixed'
+  226  git push
+  227  git fetch
+  228  git merge
+  229  git status
+  230  git push
+  231  git pull
+  232  git commit -m 'included income constraint'
+  233  git add .
+  234  git commit -m 'included income constraint'
+  235  git fetch
+  236  git merge
+  237  git push
+  238  git clone https://github.com/vasanth29797/gujaratV2.git
+  239  cd gujaratV2
+  240  git status
+  241  git add .
+  242  git status
+  243  git push
+  244  git push
+  245  git clone https://github.com/vasanth29797/gujaratV2.git
+  246  cd gujaratV2
+  247  git status
+  248  git add .
+  249  git commit -m 'Initial commit'
+  250  git push
+  251  git init
+  252  git remote add origin "https://github.com/vasanth29797/DP.git"
+  253  git pull origin master
+  254  git
+  255  git status
+  256  git add *
+  257  git status
+  258  git commit -m "Adding 6 problems in local repo"
+  259  git -A
+  260  git add -A
+  261  git log
+  262  touch sample.txt
+  263  git status
+  264  git push origin
+  265  git push -u origin master
+  266  git
+  267  ls
+  268  ls Floor.java
+  269  cmp Floor.java LCS.java
+  270  ls -l
+  271  cat Floor.java
+  272  grep Solution *
+  273  grep System *
+  274  grep System LCS.java
+  275  head -1 *.java
+  276  pwd
+  277  traceroute google
+  278  traceroute google.com
+  279  tracert google.com
+  280  whoami
+  281  nano
+  282  ls
+  283  cd gitTest/
+  284  ls
+  285  git init
+  286  ls
+  287  ls -l
+  288  ls -a
+  289  ls --help
+  290  git config -h
+  291  git config user.name=vasanth29797
+  292  git config user.name="vasanth29797"
+  293* git config --local user.name=vasanth29797"
+  294  git config user.name "vasanth29797"
+  295  git config user.name
+  296  git config user.email evk29797@gmail.com
+  297  git config user.email
+  298  git config color.status added "magenta dim"
+  299  git config color.status added
+  300  git config color.status
+  301  cd ..
+  302  git clone https://github.com/joshnh/Git-Commands.git
+  303  cd Git-Commands/
+  304  ls
+  305  cd ..
+  306  cd gitTest/
+  307  ls -a
+  308  ls --all
+  309  vi A.txt
+  310  git status
+  311  git status
+  312  git add
+  313  git add .
+  314  git add -h
+  315  git add . -v
+  316  vi A.txt 
+  317  git add . -v
+  318  git status
+  319  git reset
+  320  git status
+  321  git reset
+  322  git status
+  323  git add . -v
+  324  git status
+  325  git rm --cached .
+  326  git rm --cached A.txt 
+  327  git status
+  328  git add . -v
+  329  ls
+  330  ls -A
+  331  cd .git
+  332  ls
+  333  cd objects/
+  334  ls
+  335  git commit -m "first commit"
+  336  cd ..
+  337  cd ..
+  338  git commit -m "first commit"
+  339  vi A.txt 
+  340  git checkout
+  341  cat A.txt 
+  342  git checkout master 
+  343  git log
+  344  git log -H
+  345  git log --help
+  346  git log --oneline 
+  347  git status
+  348  git commit -am "bypassing staging area"
+  349  git status
+  350  git log
+  351  git log --oneline 
+  352  git checkout e17cd95
+  353  git log --oneline 
+  354  git checkout e8d64eab
+  355  git checkout 8d64eab
+  356  git log --oneline 
+  357  git checkout master 
+  358  git log --oneline 
+  359  git checkout 8d64eab
+  360  git log --oneline 
+  361  vi B.txt
+  362  git add .
+  363  git commit -m "commit after first commit"
+  364  git log --oneline 
+  365  git branch master 
+  366  git checkout master 
+  367  git branch slave 634393b
+  368  git checkout slave 
+  369  git log --oneline 
+  370  git branch -a
+  371  git branch -A
+  372  git remote
+  373  git remote -v
+  374  git remote -H
+  375  git remote add origin https://github.com/vasanth29797/gitTest.git
+  376  git push --help
+  377  git remote
+  378  git remote -v
+  379  git push origin master
+  380  git push origin slave
+  381  ls
+  382  cat history
+  383  git reflog
+  384  history
+  385  history > C.txt
