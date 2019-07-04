@@ -2,4 +2,8 @@ alpha
 beta
 gamma
 tsi
+<<<<<<< Updated upstream
 pi
+=======
+tow
+>>>>>>> Stashed changes
